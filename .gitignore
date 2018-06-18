@@ -1,5 +1,5 @@
 # npm 디버그
-npm-debug.log*
+*.log*
 
 node_modules
 
